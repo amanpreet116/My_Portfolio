@@ -3,8 +3,8 @@
     
     {
         "id": 1,
-        "name": "E-Mail Classification ML Model",
-        "desc": "Classify emails as spam or not-spam on the basis of the message.[Naive Bayes, Numpy, Pandas and Sklearn].",
+        "name": "E-commerce Website",
+        "desc": "A full Stack E-commerce website that sells various category of Posters.Tech Stack- NodeJS, Redux, React, SCSS, Strapi",
         "image": "https://res.cloudinary.com/dkak37mek/image/upload/v1626933127/mlpr_c2stn8.jpg",
         "links": {
             "view": "https://github.com/SauravMukherjee44/Email-Classification-Model/blob/main/Model/email_classification.ipynb",

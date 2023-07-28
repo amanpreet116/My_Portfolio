@@ -153,6 +153,25 @@ header .navbar ul li a:hover{
     right: 0;
   }
 }
+ /*---------- HOME -----------*/
+
+
+.home__img{
+  flex: 1 1 40rem;
+  z-index: 1;
+}
+.home__img gif{
+  width: 70%;
+  margin-left: 6rem;
+  border-radius: 50%;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+}
+.home__img img:hover{
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+
 /* hamburger icon ends */
 
 /* work section starts */
